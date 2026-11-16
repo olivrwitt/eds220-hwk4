@@ -1,3 +1,7 @@
+data/
+eds-220-homework/eds220-hwk4/data/landsat8-2025-02-23-palisades-eaton.nc
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
